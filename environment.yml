@@ -1,5 +1,0 @@
-name: my_R_environment
-channels:
- - defaults
-dependencies:
- - r-tidyverse
